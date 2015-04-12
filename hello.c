@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Hello, Github Community");
-  return 0;
+    printf("Hello, Github Community");
+    return 0;
 }
